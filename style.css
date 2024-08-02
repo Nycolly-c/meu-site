@@ -22,3 +22,7 @@ font-size: 24px;
 .padaria-imagem{
    width: 25%;
 }
+.padaria{
+background-image: linear-gradient(rgb(247, 215, 174),#ffb6c1 );
+
+}
