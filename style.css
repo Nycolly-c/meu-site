@@ -4,7 +4,7 @@
 }
    
    .cabecalho {
-    background-color: rgb(164, 39, 247);
+    background-color: rgb(178, 80, 243);
 color: #140a0a;
 display: flex;
 justify-content:space-around;
@@ -23,6 +23,6 @@ font-size: 24px;
    width: 25%;
 }
 .padaria{
-background-image: linear-gradient(rgb(164, 39, 247), #e285ee);
+background-image: linear-gradient(rgb(174, 66, 247), #e285ee);
 
 }
