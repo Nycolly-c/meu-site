@@ -30,7 +30,7 @@ color: rgb(255, 255, 255);
 
 .padaria-div-conteudo{
 width: 35%;
-
+display: flex;
 }
 .padaria-titlo{
 padding: 24px 0;
