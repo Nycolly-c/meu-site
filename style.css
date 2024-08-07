@@ -27,3 +27,12 @@ background-image: linear-gradient(rgb(174, 66, 247), #e285ee);
 color: white;
 display: flex;
 }
+
+.padaria-div-conteudo{
+width: 35%;
+
+}
+.padaria-titlo{
+padding: 24px 0;
+
+}
