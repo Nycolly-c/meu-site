@@ -36,14 +36,14 @@ width: 35%;
 padding: 24px 0;
 }
 .padaria{
-background-color: #d1adef,#e285ee;
+background-color: #8c33d6,#e285ee;
 color: white;
 display: flex;
 justify-content:center ;
 
 }
 .padaria{
-   background-image: linear-gradient(#d1abfd,#e285ee);
+   background-image: linear-gradient(#8c33d6,#e285ee);
    color:white;
    display: flex;
    justify-content: center;
