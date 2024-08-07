@@ -35,3 +35,18 @@ width: 35%;
 .padaria-titlo{
 padding: 24px 0;
 }
+.padaria{
+background-color: #424E61,#e285ee;
+color: white;
+display: flex;
+justify-content:center ;
+
+}
+.padaria{
+   background-image: linear-gradient(#424E61,#e285ee);
+   color:white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 24px 0;
+}
