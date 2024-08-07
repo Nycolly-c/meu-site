@@ -25,12 +25,12 @@ font-size: 24px;
 .padaria{
 background-image: linear-gradient(rgb(174, 66, 247), #e285ee);
 color: rgb(255, 255, 255);
-
+display: flex;
 }
 
 .padaria-div-conteudo{
 width: 35%;
-display: flex;
+
 }
 .padaria-titlo{
 padding: 24px 0;
