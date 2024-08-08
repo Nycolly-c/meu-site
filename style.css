@@ -2,14 +2,15 @@
     margin: 0;
    padding: 0;
 }
-.cabecalho{
-   background-color: #522dd6,white;
-   color: rgb(255, 255, 255);
+.cabecalho {
+   background-color: #c007d1e7;
+   color: white;
    display: flex;
    justify-content: space-around;
    align-items: center;
    padding: 24px 0;
 }
+
   
    
 
