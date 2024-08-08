@@ -18,6 +18,12 @@
    width: 20%
 }
 .cabecalho-lista-item{
+font-size: 24px;
+font-family: ;
+
+}
+
+.cabecalho-lista-item{
     display: inline-block;
 margin: 0 16px;
 font-size: 24px;
