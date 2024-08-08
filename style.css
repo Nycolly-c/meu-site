@@ -24,24 +24,18 @@ font-size: 24px;
    width: 25%;
 }
 .padaria{
-background-image: linear-gradient(#fcf9ff, #8a64e2)
-color: rgb(255, 254, 255);
+background-color: #9d88eb,white;
+color: #fffefe;
 display: flex;
 }
-.Padaria-div-conteudo{
-   width: 35%;
-}
 
-.padaria-titulo{
-   padding: 24px 0;
-}
 
-.padaria{
-   background-image: linear-gradient(#a462f0, #8a64e2);
-   color: rgb(184, 128, 236);
-   display: flex;
-   justify-content: center;
-}
+
+
+
+
+
+
 
 
 
