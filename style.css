@@ -25,34 +25,22 @@ font-size: 24px;
 .padaria{
 background-image: linear-gradient(rgb(174, 66, 247), #e285ee);
 color: rgb(255, 255, 255);
-
-}
-
-.padaria-div-conteudo{
-width: 20%;
-
-}
-
-.padaria-titlo{
-padding: 24px 0;
-}
-
-
-.padaria{
-background-color: #8c33d6,#e285ee;
-color: white;
 display: flex;
-justify-content:center ;
-
+}
+.Padara-div-conteudo{
+   width: 35%;
 }
 
-
-
-.padaria{
-   background-image: linear-gradient(#8c33d6,#e285ee);
-   color:white;
-   display: flex;
-   justify-content: center;
-   align-items: center;
+.padaria-titulo{
    padding: 24px 0;
 }
+
+.padaria{
+   background-image: linear-gradient(#a462f0, #8a64e2);
+   color: white;
+   display: flex;
+   justify-content: center;
+}
+
+
+
