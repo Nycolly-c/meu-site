@@ -24,7 +24,7 @@ font-size: 24px;
 }
 .padaria{
 background-image: linear-gradient(rgb(174, 66, 247), #e285ee);
-color: rgb(255, 255, 255);
+color: rgb(166, 101, 226);
 display: flex;
 }
 .Padara-div-conteudo{
@@ -37,7 +37,7 @@ display: flex;
 
 .padaria{
    background-image: linear-gradient(#a462f0, #8a64e2);
-   color: white;
+   color: rgb(184, 128, 236);
    display: flex;
    justify-content: center;
 }
