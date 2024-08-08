@@ -24,7 +24,7 @@ font-size: 24px;
    width: 25%;
 }
 .padaria{
-background-image: linear-gradient(rgb(174, 66, 247), #e285ee);
+background-image: linear-gradient(rgb(255, 255, 255), #e285ee);
 color: rgb(255, 254, 255);
 display: flex;
 }
