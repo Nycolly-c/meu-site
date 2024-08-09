@@ -3,7 +3,7 @@
    padding: 0;
 }
 
-.cabecalho {
+.cabecalho{
    background-color:rgb(118, 3, 240);
    color: white;
    display: flex;
