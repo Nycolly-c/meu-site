@@ -2,6 +2,18 @@
     margin: 0;
    padding: 0;
 }
+body{
+   // <uniquifier>: Use a unique and descriptive class name
+   // <weight>: Use a value from 100 to 700
+   
+   .josefin-sans-<uniquifier> {
+     font-family: "Josefin Sans", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: <weight>;
+     font-style: normal;
+   }
+
+}
 .cabecalho {
    background-color:rgb(118, 3, 240);
    color: white;
